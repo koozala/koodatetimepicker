@@ -6,7 +6,7 @@ in a web application in a very efficient way, mostly using the keyboard instead 
 
 The idea is simple: define a input text element and turn it into a datetime field by applying the class.
 
-Here is an example: https://jsfiddle.net/ezxkagsc/
+Here is an example: https://jsfiddle.net/f3jmuxwz/1/
 
 The functionality can be used as a TypeScript class. Just provide the input element to the constructor of the class `DateTimePicker`:
 
